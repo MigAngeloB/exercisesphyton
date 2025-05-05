@@ -1,0 +1,2 @@
+# exercisesphyton
+exercícios pyhton
