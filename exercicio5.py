@@ -1,13 +1,17 @@
+from exercicio4 import calcularmedia
+
 def cadastraraluno(nome,email,serie,nota1,nota2,nota3):
     alunos = []
+
+    notas = [nota1,nota2,nota3]
 
     aluno = {
             "nome": nome,
             "email": email,
             "serie": serie,
-            "notas": [nota1,nota2,nota3]
+            "notas": notas,
+            "media": calcularmedia(notas)
     }
-
 
     alunos.append(aluno)
 
