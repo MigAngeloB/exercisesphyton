@@ -13,4 +13,4 @@ def carregardados():
 funcionarios = carregardados()
 
 for funcionario in funcionarios:
-    print (f"Nome e sobrenome do funcionário: {funcionario["nome"]} {funcionario["sobrenome"]} \n Salário do funcionário: R${funcionario["salario"]}")
+    print (f"Nome do funcionário: {funcionario["nome"]} {funcionario["sobrenome"]} \n Salário do funcionário: R${funcionario["salario"]}")

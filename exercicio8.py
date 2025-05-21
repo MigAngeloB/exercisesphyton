@@ -67,7 +67,6 @@ def inciarsistema():
         else:
             print("Opção inválida. Escolha uma das opções do menu.")
 
-=======
 clientes = []
 
 def obterdadoscliente():
