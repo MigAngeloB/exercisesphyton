@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 clientes = []
 
 def obterdadoscliente():
@@ -137,7 +136,6 @@ def inciarsistema():
         else:
             print("Opção inválida. Escolha uma das opções do menu.")
 
-=======
 clientes = []
 
 def obterdadoscliente():
@@ -207,5 +205,4 @@ def inciarsistema():
         else:
             print("Opção inválida. Escolha uma das opções do menu.")
 
->>>>>>> 7f3c6f90cc51861b48fe66fda4f2dd4d600cf250
 inciarsistema()
