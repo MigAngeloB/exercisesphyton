@@ -1,6 +1,7 @@
 import json
 import os
 
+
 filmes = "cadastrofilme.json"
 
 def dadosfilme():
