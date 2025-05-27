@@ -48,7 +48,7 @@ def mostrardadosfilmes(db_filmes):
 def inciarsistema():
     db_filmes = dadosfilme()
     while True:
-        print("SIstema de cadastro de filme:")
+        print("Sistema de cadastro de filme:")
         print("="*90)
         print ("Opção 1 => Mostrar lista de filmes cadastrados")
         print ("Opção 2 => Cadastrar filmes")

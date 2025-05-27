@@ -1,0 +1,32 @@
+[
+    {
+        "marca": "Chevrolet",
+        "modelo": "Onix",
+        "ano": 2023,
+        "cor": "Vermelho"
+    },
+    {
+        "marca": "Lamborghini",
+        "modelo": "Urus",
+        "ano": 2025,
+        "cor": "Roxo"
+    },
+    {
+        "marca": "BYD",
+        "modelo": "Dolphin",
+        "ano": 2025,
+        "cor": "Preto"
+    },
+    {
+        "marca": "Hyundai",
+        "modelo": "HB20",
+        "ano": 2022,
+        "cor": "Cinza"
+    },
+    {
+        "marca": "Fiat",
+        "modelo": "Fastback",
+        "ano": 2025,
+        "cor": "Preto"
+    }
+]
