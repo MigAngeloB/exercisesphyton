@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Homem-Aranha: Sem Volta para Casa",
+        "classificacao": 12,
+        "genero": "Ação",
+        "descricao": "Peter Parker tem a sua identidade secreta revelada e pede ajuda ao Doutor Estranho. Quando um feitiço para reverter o evento não sai como o esperado, o Homem-Aranha e seu companheiro dos Vingadores precisam enfrentar inimigos de todo o multiverso."
+    },
+    {
+        "nome": "Wicked",
+        "classificacao": 10,
+        "genero": "Fantasia",
+        "descricao": "Na Terra de Oz, uma jovem chamada Elphaba forma uma improvável amizade com uma estudante popular chamada Glinda. Após um encontro com o Mágico de Oz, o relacionamento delas logo chega a uma encruzilhada."
+    },
+    {
+        "nome": "Procurando Nemo",
+        "classificacao": 0,
+        "genero": "Aventura",
+        "descricao": "Em seu primeiro dia de aula, Nemo é capturado por um mergulhador e acaba no aquário de um dentista. Enquanto ele tenta bolar um plano para escapar, seu pai cruza o oceano para resgatá-lo."
+    },
+    {
+        "nome": "Carros 2",
+        "classificacao": 0,
+        "genero": "Comédia",
+        "descricao": "O astro das corridas, Relâmpago McQueen, e o carro-guincho, Mate, viajam para disputar o primeiro Grand Prix Mundial, que irá revelar o carro mais veloz do planeta. Nessa jornada imperdível, Mate se envolve com um grupo de espionagem e vive grandes aventuras com seus amigos."
+    }
+]
