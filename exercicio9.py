@@ -14,7 +14,6 @@ def carregardados():
 clientes = carregardados()
 
 for cliente in clientes:
-=======
 import json
 import os
 

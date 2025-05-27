@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 dados = []
 
 def obterdadosuser():
@@ -57,7 +56,6 @@ def iniciarsistema():
             print("Sistema finalizado.")
             break
 
-=======
 dados = []
 
 def obterdadosuser():
@@ -115,7 +113,6 @@ def iniciarsistema():
         else:
             print("Sistema finalizado.")
             break
-=======
 dados = []
 
 def obterdadosuser():
@@ -173,7 +170,6 @@ def iniciarsistema():
         else:
             print("Sistema finalizado.")
             break
-=======
 dados = []
 
 def obterdadosuser():
@@ -232,5 +228,4 @@ def iniciarsistema():
             print("Sistema finalizado.")
             break
 
->>>>>>> 7f3c6f90cc51861b48fe66fda4f2dd4d600cf250
 iniciarsistema()
