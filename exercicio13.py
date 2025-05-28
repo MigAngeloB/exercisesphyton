@@ -71,3 +71,4 @@ def iniciarsistema():
             print("Opção inválida. Escolha uma das opções do menu.")
         
 iniciarsistema()
+
