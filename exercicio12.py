@@ -27,20 +27,20 @@ def obterdadosveiculo():
     return veiculo
 
 def cadastrarveiculo(receberveiculo):
-    db_veiuclos = dadosveiculo()
-    db_veiuclos.append(receberveiculo)
+    db_veiuculos = dadosveiculo()
+    db_veiuculos.append(receberveiculo)
 
     with open(veiculos, "w", encoding="utf-8") as arq_json:
-        json.dump(db_veiuclos, arq_json, indent=4, ensure_ascii=False)
+        json.dump(db_veiuculos, arq_json, indent=4, ensure_ascii=False)
 
-def mostrardadosveiculos(db_veiculos):
-    if db_veiculos:
-        for veiculo in db_veiculos:
+def mostrardadosveiculos(db_veiuculos):
+    if db_veiuculos:
+        for veiculo in db_veiuculos:
             print(f"""
-                  Marca do carro: {veiculo["marca"]}
-                  Modelo do carro: {veiculo["modelo"]}
-                  Ano do carro: {veiculo["ano"]}
-                  Cor do carro: {veiculo["cor"]}
+                Marca do carro: {veiculo["marca"]}
+                Modelo do carro: {veiculo["modelo"]}
+                Ano do carro: {veiculo["ano"]}
+                Cor do carro: {veiculo["cor"]}
              """)
     else:
         print("Não existe nenhum carro cadastrado!")

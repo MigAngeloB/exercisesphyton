@@ -28,5 +28,23 @@
         "modelo": "Fastback",
         "ano": 2025,
         "cor": "Preto"
+    },
+    {
+        "marca": "Ford",
+        "modelo": "Fiesta",
+        "ano": 2015,
+        "cor": "Vermelho"
+    },
+    {
+        "marca": "Volkswagen",
+        "modelo": "T-Cross",
+        "ano": 2024,
+        "cor": "Prata"
+    },
+    {
+        "marca": "Chevrolet",
+        "modelo": "Spin",
+        "ano": 2017,
+        "cor": "Preto"
     }
 ]

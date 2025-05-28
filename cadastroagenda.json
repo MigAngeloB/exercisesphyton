@@ -1,0 +1,16 @@
+[
+    {
+        "Nome": "Miguel",
+        "Serviço": "Corte",
+        "Data": "12/12/2025",
+        "Hora": "17h",
+        "Obs.": ""
+    },
+    {
+        "Nome": "Bruno",
+        "Serviço": "Barba",
+        "Data": "31/02/2025",
+        "Hora": "13h30",
+        "Obs.": "Banho de perfume no salão para recebê-lo"
+    }
+]
